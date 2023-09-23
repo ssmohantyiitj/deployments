@@ -1,2 +1,1 @@
-# deployments
-For CSL7510 course
+# CSL7510-VCC-assignments
